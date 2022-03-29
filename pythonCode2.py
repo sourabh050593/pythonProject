@@ -1,1 +1,1 @@
-print("day 2, git ")
+print("*****day 2, git *********")
